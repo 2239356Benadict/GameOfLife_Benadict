@@ -12,16 +12,15 @@ Another important functionality that is implemented in the fire extinguishing ef
 
 
 <h4>Credits </h4>
-Assets used in the project:<br />
-
-1.	Character/Manikin and Animations: Mixamo<br />
-2.	Aircraft 3D Model: Turbosquid<br />
+Assets used in the project: <br />
+1.	Character/Manikin and Animations: Mixamo <br />
+2.	Aircraft 3D Model: Turbosquid <br />
 
 
 <h4>References </h4>
-1.	Sound effects: https://pixabay.com/<br />
-2.	Sound effects: https://freesound.org/people/aerror/sounds/350757/<br />
-3.	3D Models: https://turbosquid.com/<br />
+1.	Sound effects: https://pixabay.com/ <br />
+2.	Sound effects: https://freesound.org/people/aerror/sounds/350757/ <br />
+3.	3D Models: https://turbosquid.com/ <br />
 
 
 
