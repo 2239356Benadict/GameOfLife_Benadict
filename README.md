@@ -18,6 +18,7 @@ Another important functionality that is implemented in the fire extinguishing ef
 Assets used in the project: <br />
 1.	Character/Manikin and Animations: Mixamo <br />
 2.	Aircraft 3D Model: Turbosquid <br />
+3.  Helicopter 3D Model: Turbosquid
 
 
 <h4>References </h4>
