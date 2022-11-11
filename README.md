@@ -10,6 +10,9 @@ The health bar is a feature that could be considered part of the gamification of
 <p align="justify">
 Another important functionality that is implemented in the fire extinguishing effect from an industrial extinguisher and an aerial extinguisher. Everyone will try to use a fire extinguisher in any real-world firefight situation. Likewise, in this application, the industrial extinguisher is used once the particle collides with the fire to put out the fire. Aerial support does the same.
 
+  #### **Video**
+  
+  [<img src="https://github.com/2239356Benadict/Assignment1/blob/main/ScreenshotAssignment3/Thumbnail.png" width="1000" height="" />](https://youtu.be/2QHu6nOh_5U)
 
 <h4>Credits </h4>
 Assets used in the project: <br />
