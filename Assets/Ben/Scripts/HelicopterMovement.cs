@@ -26,6 +26,7 @@ public class HelicopterMovement : MonoBehaviour
     {
         reachedTopArea = false;
         xRRigMovementForHelicopter = GameObject.FindGameObjectWithTag("XRrig").GetComponent<XRRigMovement>();
+        stepToClimb.SetActive(false);
     }
 
     // Update is called once per frame
@@ -53,7 +54,7 @@ public class HelicopterMovement : MonoBehaviour
     }
 
     /// <summary>
-    /// 
+    /// Helps to check whether the helicopter stays on the particular area.
     /// </summary>
     /// <param name="other"></param>
     private void OnTriggerStay(Collider other)
