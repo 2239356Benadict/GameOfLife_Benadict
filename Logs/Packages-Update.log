@@ -73,3 +73,35 @@ The following packages were updated:
   com.unity.xr.interaction.toolkit from version 1.0.0-pre.6 to 2.0.2
   com.unity.xr.management from version 4.0.7 to 4.2.0
   com.unity.xr.oculus from version 1.10.0 to 3.0.2
+
+=== Thu Nov  9 09:41:34 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.visualstudio from version 2.0.16 to 2.0.21
+  com.unity.probuilder from version 5.0.6 to 5.1.1
+  com.unity.render-pipelines.universal from version 12.1.7 to 12.1.12
+  com.unity.visualeffectgraph from version 12.1.7 to 12.1.12
+  com.unity.xr.interaction.toolkit from version 2.2.0 to 2.5.1
+  com.unity.xr.management from version 4.2.1 to 4.3.3
+  com.unity.xr.oculus from version 3.0.2 to 3.3.0
+
+=== Sat Nov 11 12:53:09 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collections from version 1.2.3 to 1.2.4
+
+=== Sat Nov 11 12:53:10 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.burst@1.7.2
+  com.unity.collections@1.2.4
+  com.unity.mathematics@1.2.6

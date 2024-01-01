@@ -8,10 +8,25 @@ ModelImporter:
     second: Take 001
   externalObjects:
   - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 597177f1e0f3f764a8b9c6fb08155aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Huey_inside_material
+    second: {fileID: 2100000, guid: 91c9b39bd37501148b4d9d71112d5ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 72452d644a03f1b44a52b941c6cca62f, type: 2}
+  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: HueyTXTR3
-    second: {fileID: 2800000, guid: 57ce406025d473147a1b9f66605dd1ef, type: 3}
+    second: {fileID: 2800000, guid: 252995d5e9e392140aa77f893fc9a709, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
